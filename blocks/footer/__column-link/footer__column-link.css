@@ -8,8 +8,8 @@
     margin: 0;
     align-items: center;
     transition: opacity ease-in-out .2s;
-  }
+}
   
   .footer__column-link:hover {
     opacity: 0.5;
-  }
+}
